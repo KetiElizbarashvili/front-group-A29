@@ -1,0 +1,31 @@
+ol {
+    max-width: max-content;
+    top: auto;
+  }
+  
+  li {
+    padding: 1rem;
+    font-weight: bold;
+  }
+  
+  li:last-child {
+    background: #efd81d;
+  }
+  
+  li:first-child {
+    background: #ef6026;
+  }
+  
+  li:nth-child(2) {
+    background: #25a1e1;
+  }
+  
+  ol {
+    list-style-position: inside;
+    padding: 0;
+  }
+  
+  body {
+    font-family: sans-serif;
+  }
+   
